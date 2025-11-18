@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# (옵션) large datasets - raw 데이터 큰 파일 제외하고 싶으면
+# data/raw/*
